@@ -32,6 +32,6 @@ I combine hands-on enterprise experience with continuous learning and open-sourc
 
 > Let’s connect and collaborate on detection engineering, threat hunting, or security automation projects!
 
-[📫 Connect with me on LinkedIn](https://www.linkedin.com/in/your-link)  
+[📫 Connect with me on LinkedIn](https://www.linkedin.com/in/jack-scott-26149b21b/)  
 [📁 Explore my Repositories](https://github.com/sjack8313?tab=repositories)
 
