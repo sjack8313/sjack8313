@@ -1,6 +1,4 @@
 
-
-<!--
 # 👋 Hi, I’m Jack Scott
 
 **Cybersecurity| Detection Engineer | Threat Hunter**
@@ -17,7 +15,7 @@
 
 ---
 
-### 🎯 Tools & Tech I Use
+ 🎯 Tools & Tech I Use
 `Splunk` `Elastic` `Python` `CrowdStrike` `Nessus` `Barracuda` `Cisco` `Azure` `MITRE ATT&CK` `Windows Event Logs`
 
 ---
@@ -29,7 +27,7 @@
 
 ---
 
-### 📈 About Me
+📈 About Me
 I combine hands-on enterprise experience with continuous learning and open-source contributions. Passionate about building smarter, faster, and more resilient cyber defenses.
 
 > Let’s connect and collaborate on detection engineering, threat hunting, or security automation projects!
