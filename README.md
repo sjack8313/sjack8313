@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Jack Scott
 
-**Cybersecurity| Detection Engineer | Threat Hunter**
+**Cybersecurity| Detection Engineer | Threat Hunter** | Vulnaerbaility Analyst | Incident Response
 
 🔒 I specialize in building practical, real-world solutions for **threat detection**, **incident response**, and **security automation**. I turn raw log data into actionable insights using tools like **Splunk**, **Elastic Stack**, and custom **Python automation scripts**.
 
