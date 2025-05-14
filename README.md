@@ -11,7 +11,7 @@
 - **Detection Engineering**: SIEM queries, MITRE-based alerts, PowerShell & Nmap detection
 - **Threat Hunting**: Advanced SPL searches, anomaly-based logic
 - **SOAR Automation**: Python scripts for IP blocking, alert enrichment, API integrations (firewalls, EDR, AWS)
-- **Log Analysis & Simulation**: Windows Event Logs, Sysmon, CrowdStrike, Azure logs
+- **Log Analysis & Simulation**: Windows Event Logs, Sysmon, CrowdStrike, Azure logs, SIEM, Nessus
 
 ---
 
