@@ -1,13 +1,13 @@
 
-# 👋 Hi, I’m Jack Scott
+#  Hi, I’m Jack Scott
 
 **Cybersecurity| Detection Engineer | Threat Hunter** | Vulnaerbaility Analyst | Incident Response
 
-🔒 I specialize in building practical, real-world solutions for **threat detection**, **incident response**, and **security automation**. I turn raw log data into actionable insights using tools like **Splunk**, **Elastic Stack**, and custom **Python automation scripts**.
+I specialize in building practical, real-world solutions for **threat detection**, **incident response**, and **security automation**. I turn raw log data into actionable insights using tools like **Splunk**, **Elastic Stack**, and custom **Python automation scripts**.
 
 ---
 
-### 🛠️ Featured Skills & Projects
+### 🛠 Featured Skills & Projects
 - **Detection Engineering**: SIEM queries, MITRE-based alerts, PowerShell & Nmap detection
 - **Threat Hunting**: Advanced SPL searches, anomaly-based logic
 - **SOAR Automation**: Python scripts for IP blocking, alert enrichment, API integrations (firewalls, EDR, AWS)
@@ -15,7 +15,7 @@
 
 ---
 
- 🎯 Tools & Tech I Use
+  Tools & Tech I Use
 `Splunk` `Elastic` `Python` `CrowdStrike` `Nessus` `Barracuda` `Cisco` `Azure` `MITRE ATT&CK` `Windows Event Logs`
 
 ---
